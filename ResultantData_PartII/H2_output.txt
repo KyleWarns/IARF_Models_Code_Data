@@ -1,0 +1,183 @@
+0 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0
+    EXIT -500.0
+       1.0 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+1 time0elec_price59.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1
+    100% 539.717936
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 2 	 time1elec_price54.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0 	 484.0
+    90% 540.3155384
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 3 	 time1elec_price54.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7 	 484.6
+    85% 546.5309719999999
+       1.0 	 4 	 time1elec_price54.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1 	 485.88097199999993
+2 time1elec_price54.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0
+    100% 484.0
+       1.0 	 5 	 time2elec_price59.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0 	 430.0
+    90% 478.28771600000005
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 6 	 time2elec_price59.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7 	 429.0
+    85% 478.766766035888
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 7 	 time2elec_price59.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1 	 429.48097199999995
+3 time1elec_price54.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7
+    100% 480.88372000000004
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 5 	 time2elec_price59.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0 	 430.0
+    90% 484.6
+       1.0 	 6 	 time2elec_price59.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7 	 429.0
+    85% 480.36676603588796
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 7 	 time2elec_price59.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1 	 429.48097199999995
+4 time1elec_price54.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1
+    100% 481.68372
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 5 	 time2elec_price59.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0 	 430.0
+    90% 480.68771599999997
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 6 	 time2elec_price59.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7 	 429.0
+    85% 485.88097199999993
+       1.0 	 7 	 time2elec_price59.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1 	 429.48097199999995
+5 time2elec_price59.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0
+    100% 430.0
+       1.0 	 8 	 time3elec_price59.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0 	 371.0
+    90% 423.4278756
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 9 	 time3elec_price59.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7 	 368.9
+    85% 423.35912343588797
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 10 	 time3elec_price59.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1 	 368.830972
+6 time2elec_price59.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7
+    100% 426.61948400000006
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 8 	 time3elec_price59.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0 	 371.0
+    90% 429.0
+       1.0 	 9 	 time3elec_price59.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7 	 368.9
+    85% 424.459123435888
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 10 	 time3elec_price59.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1 	 368.830972
+7 time2elec_price59.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1
+    100% 427.16948399999995
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 8 	 time3elec_price59.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0 	 371.0
+    90% 425.0778755999999
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 9 	 time3elec_price59.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7 	 368.9
+    85% 429.48097199999995
+       1.0 	 10 	 time3elec_price59.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1 	 368.830972
+8 time3elec_price59.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0
+    100% 371.0
+       1.0 	 11 	 time4elec_price69.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0 	 312.0
+    90% 363.56803519999994
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 12 	 time4elec_price69.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7 	 308.79999999999995
+    85% 362.951480835888
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 13 	 time4elec_price69.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1 	 308.180972
+9 time3elec_price59.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7
+    100% 367.855248
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 11 	 time4elec_price69.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0 	 312.0
+    90% 368.9
+       1.0 	 12 	 time4elec_price69.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7 	 308.79999999999995
+    85% 364.051480835888
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 13 	 time4elec_price69.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1 	 308.180972
+10 time3elec_price59.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1
+    100% 368.405248
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 11 	 time4elec_price69.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0 	 312.0
+    90% 365.2180351999999
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 12 	 time4elec_price69.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7 	 308.79999999999995
+    85% 368.830972
+       1.0 	 13 	 time4elec_price69.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1 	 308.180972
+11 time4elec_price69.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0
+    100% 312.0
+       1.0 	 14 	 time5elec_price88.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0 	 243.0
+    90% 304.7441588
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 15 	 time5elec_price88.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7 	 239.7
+    85% 303.10075220000004
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 16 	 time5elec_price88.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1 	 238.05
+12 time4elec_price69.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7
+    100% 308.130972
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 14 	 time5elec_price88.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0 	 243.0
+    90% 308.79999999999995
+       1.0 	 15 	 time5elec_price88.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7 	 239.7
+    85% 303.20075219999995
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 16 	 time5elec_price88.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1 	 238.05
+13 time4elec_price69.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1
+    100% 308.180972
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 14 	 time5elec_price88.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0 	 243.0
+    90% 304.8941588
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 15 	 time5elec_price88.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7 	 239.7
+    85% 307.20000000000005
+       1.0 	 16 	 time5elec_price88.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1 	 238.05
+14 time5elec_price88.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0
+    100% 243.0
+       1.0 	 17 	 time6elec_price91.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0 	 155.0
+    90% 237.888614
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 18 	 time6elec_price91.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7 	 153.5
+    85% 237.14161099999998
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 19 	 time6elec_price91.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1 	 152.75
+15 time5elec_price88.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7
+    100% 237.58262
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 17 	 time6elec_price91.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0 	 155.0
+    90% 239.7
+       1.0 	 18 	 time6elec_price91.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7 	 153.5
+    85% 235.341611
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 19 	 time6elec_price91.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1 	 152.75
+16 time5elec_price88.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1
+    100% 236.68262
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 17 	 time6elec_price91.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0 	 155.0
+    90% 235.188614
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 18 	 time6elec_price91.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7 	 153.5
+    85% 238.05
+       1.0 	 19 	 time6elec_price91.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1 	 152.75
+17 time6elec_price91.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0
+    100% 155.0
+       1.0 	 20 	 time7elec_price64.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0 	 64.0
+    90% 152.3438584
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 21 	 time7elec_price64.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7 	 64.6
+    85% 152.6426596
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 22 	 time7elec_price64.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1 	 64.9
+18 time6elec_price91.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7
+    100% 149.64625600000002
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 20 	 time7elec_price64.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0 	 64.0
+    90% 153.5
+       1.0 	 21 	 time7elec_price64.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7 	 64.6
+    85% 150.54265960000004
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 22 	 time7elec_price64.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1 	 64.9
+19 time6elec_price91.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1
+    100% 148.59625599999998
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 20 	 time7elec_price64.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0 	 64.0
+    90% 149.19385839999998
+       0.004 	 0 	 time0elec_price0.0H2_price0.0valve_epos0.0slidedTruevalve_h2pos0.0slidedTrueE_B10temp0pressure0M_B10massflow0E_B20temp0pressure0M_B20massflow0E_B30temp0pressure0M_B30massflow0 	 -500.0
+       0.996 	 21 	 time7elec_price64.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7 	 64.6
+    85% 152.75
+       1.0 	 22 	 time7elec_price64.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1 	 64.9
+20 time7elec_price64.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0
+    EXIT 64.0
+       1.0 	 20 	 time7elec_price64.0H2_price70.0valve_epos1.0slidedFalsevalve_h2pos0.0slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B24temp521.3399999999999pressure3.29M_B24massflow67.1E_B37temp530.38pressure3.2M_B37massflow0.0 	 64.0
+21 time7elec_price64.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7
+    EXIT 64.6
+       1.0 	 21 	 time7elec_price64.0H2_price70.0valve_epos0.9slidedFalsevalve_h2pos0.1slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B25temp515.77pressure2.96M_B25massflow60.4E_B38temp519.89pressure3.2M_B38massflow6.7 	 64.6
+22 time7elec_price64.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1
+    EXIT 64.9
+       1.0 	 22 	 time7elec_price64.0H2_price70.0valve_epos0.85slidedFalsevalve_h2pos0.15slidedFalseE_B11temp523.15pressure3.4M_B11massflow67.1E_B26temp512.9pressure2.8M_B26massflow57.0E_B39temp519.89pressure3.2M_B39massflow10.1 	 64.9
